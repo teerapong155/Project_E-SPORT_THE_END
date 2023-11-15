@@ -20,13 +20,15 @@
             <ul>
                 <li><a href="#">หน้าแรก</a></li>
                 <li><a href="#">ให้สิทธิ์ผู้ใช้งาน</a></li>
-                <li><a href="#">รายการแข่งขัน</a></li>
-                <li><a href="#">#</a></li>
-                <li><a href="#">#</a></li>
+                <li><a href="#">จัดการข้อมูลผู้จัดการแข่งขัน</a></li>
             </ul>
         </div>
         <div class="menu-items bg-light">
-            
+            <div class="main">
+            <?php 
+                include ("Manager_Rights.php");
+            ?>
+            </div>
         </div>
     </div>
 

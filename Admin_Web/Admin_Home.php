@@ -4,7 +4,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="/Project_E-SPORT_THE_END/Admin_Page/CSS_Admin_Page/CSS_Admin_Home.css">
+    <link rel="stylesheet" type="text/css" href="/Project_E-SPORT_THE_END/Admin_Web/CSS_Admin/Admin_Home.css">
     <title>Admin Home</title>
 
 </head>
@@ -19,10 +19,10 @@
         <div class="menu-items">
             <ul>
                 <li><a href="#">หน้าแรก</a></li>
-                <li><a href="#">ตารางการแข่งขัน</a></li>
-                <li><a href="#">ถ่ายทอดสด</a></li>
-                <li><a href="#">จัดการข้อมูลทีมผู้เข้าแข่งขัน</a></li>
-                <li><a href="#">จัดรายการแข่งขัน</a></li>
+                <li><a href="#">ให้สิทธิ์ผู้ใช้งาน</a></li>
+                <li><a href="#">รายการแข่งขัน</a></li>
+                <li><a href="#">#</a></li>
+                <li><a href="#">#</a></li>
             </ul>
         </div>
         <div class="menu-items bg-light">

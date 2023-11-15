@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    display: flex;
+    background-color: #C5FF7E;
+    
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    display: flex;
+    padding: 10px;
+    
+}
+
+ul{
+    margin-left: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+ul li {
+    
+    margin: 0 1rem;
+}
+ul li a {
+    color: #8C52FF;
+    text-decoration: none;
+}
+header {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../../images/news2.png");
+    
+    
+}
+.header-info {
+    width: 650px;
+    height: 300px;
+    text-align: center;
+}
+
+.teams {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.teams-items {
+    padding: 2rem;
+    background: #8C52FF;
+    color: #fff;
+    text-align: center;
+}
+.teams-items img {
+    width: 350px;
+}
+.teams-items a {
+    text-decoration: none;
+    color: #000;
+    background:#fff;
+    padding: 0.5rem;
+}
+
+.register {
+    background: #8C52FF;
+    text-align: center;
+    padding: 15px;
+}
+.register-bg img {
+    width: 1200px;
+    height: 300px;
+    
+}
+.button {
+    background-color: #C5FF7E;
+    border: none;
+    padding: 15px 32px;
+    border-radius: 5%;
+    margin: 4px 2px;
+    color: #8C52FF;
+}
+
+
+footer {
+    background: #C5FF7E;
+    padding: 1rem;
+    text-align: center;
+    color: #8C52FF;
+}

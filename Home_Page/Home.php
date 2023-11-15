@@ -13,13 +13,11 @@
         <img src="../images/news2.png" alt="">
         </div>
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#">หน้าแรก</a></li>
+          <li><a href="#">ลงทะเบียนผู้จัดการแข่งขัน</a></li>
+          <li><a href="#">รายละเอียดเกม</a></li>
+          <li><a href="#">ตารางการแข่งขัน</a></li>
+          <li><a href="#">ข้อมูลกติกาการแข่งขัน</a></li>
         </ul>
     </section>
 
